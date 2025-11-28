@@ -1,0 +1,49 @@
+# Maven
+/target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+*.iml
+.idea/
+
+# NetBeans
+nbproject/private/
+
+# macOS
+.DS_Store
+
+# Windows
+ess-local.state
+Thumbs.db
+
+# Logs
+*.log
+
+# Build
+/build/
+
+# distribution
+*.war
+
+# JetBrains
+/.idea
+
+# Node
+node_modules/
+
+# Gradle
+.gradle/
+
+# Ignore generated files
+generated-sources/
+
+# Ignore VS Code settings
+.vscode/
+
+# OneDrive/Sync files
+*.tmp
+~*
